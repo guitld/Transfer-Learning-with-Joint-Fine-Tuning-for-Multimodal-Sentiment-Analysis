@@ -1,4 +1,4 @@
-# Transfer-Learning-with-Joint-Fine-Tuning-for-Multimodal-Sentiment-Analysis
+# Transfer Learning with Joint Fine-Tuning for Multimodal Sentiment Analysis
 
 This is the code for the Paper "Guilherme L. Toledo, Ricardo M. Marcacini: Transfer Learning with Joint Fine-Tuning for Multimodal Sentiment Analysis (LXAI Research Workshop at ICML 2022)".
 
