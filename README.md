@@ -13,4 +13,4 @@ We used the [HatefulMemes](https://ai.facebook.com/tools/hatefulmemes/) dataset.
 
 ## Logger
 As a visualizer for each fold result, we used wandb as our logger.
-If you ry to reproduce our code, make sure you are logged in your wandb account and don't forget to use the project as a parameter :)
+If you try to reproduce our code, make sure you are logged in your wandb account and don't forget to use the project as a parameter :)
