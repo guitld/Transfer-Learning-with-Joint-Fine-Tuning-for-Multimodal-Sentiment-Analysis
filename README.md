@@ -14,8 +14,3 @@ We used the [HatefulMemes](https://ai.facebook.com/tools/hatefulmemes/) dataset.
 ## Logger
 As a visualizer for each fold result, we used wandb as our logger.
 If you ry to reproduce our code, make sure you are logged in your wandb account and don't forget to use the project as a parameter :)
-
-## Testing
-There are 2 .ckpt files with our best models from each 10-Fold experiment (MVSA and HatefulMemes).
-
-Feel free to load the model with the fine-tuned parameters for inference :D
