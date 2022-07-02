@@ -9,7 +9,7 @@ Our pipeline to pre-process the dataset followed these steps:
 - We assign to each sample the most common label among the annotators.
 - Randomly `(seed=42)` balanced the dataset, ending up with 1211 samples for each label.
 ### HatefulMemes
-We used the [HatefulMemes](https://ai.facebook.com/tools/hatefulmemes/) dataset. As for preprocessing, we merged 
+We used the [HatefulMemes](https://ai.facebook.com/tools/hatefulmemes/) dataset. As for preprocessing, we merged `train.jsonl` and `dev_seen.jsonl` for the experiments.
 
 ## Logger
 As a visualizer for each fold result, we used wandb as our logger.
